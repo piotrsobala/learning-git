@@ -15,3 +15,4 @@ produkty = sum(sklep_lista.values(), [])
 print(f"W sumie kupuję {len(produkty)} produktów.")
 
 
+print("Pozdrowienia")
